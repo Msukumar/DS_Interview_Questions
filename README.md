@@ -1,4 +1,3 @@
-# DS_Interview_Questions
 Zookeeper properties
 ------------------------
 
